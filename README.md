@@ -2,3 +2,6 @@
 Creado para aprender a manejar git y github
 
 vamos a la playa
+
+
+hola que tal
